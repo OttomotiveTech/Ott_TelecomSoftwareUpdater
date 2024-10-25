@@ -1,0 +1,990 @@
+#Session Start#
+Date : [2024-08-31 17:34:14]	[LDFŞSMFDLŞS]	->LDFŞSMFDLŞS Logged In!
+Date : [2024-08-31 17:34:14]	[LDFŞSMFDLŞS]	->Started To QR Session
+Date : [2024-08-31 17:34:16]	[LDFŞSMFDLŞS]	->CORRECT QR -> NLOS
+Date : [2024-08-31 17:34:16]	[LDFŞSMFDLŞS]	->Connected to COM15
+Date : [2024-08-31 17:34:16]	[LDFŞSMFDLŞS]	->SESSION START : HANDSHAKE
+Date : [2024-08-31 17:34:19]	[LDFŞSMFDLŞS]	->SESSION OK : HANDSHAKE
+Date : [2024-08-31 17:34:19]	[LDFŞSMFDLŞS]	->SESSION START : REMAINING CAPACITY
+Date : [2024-08-31 17:34:21]	[LDFŞSMFDLŞS]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-08-31 17:34:21]	[LDFŞSMFDLŞS]	->SESSION START : BATTERY MODEL
+Date : [2024-08-31 17:34:22]	[LDFŞSMFDLŞS]	->SESSION OK : BATTERY MODEL
+Date : [2024-08-31 17:34:22]	[LDFŞSMFDLŞS]	->SESSION START : SERIAL NUMBER
+Date : [2024-08-31 17:34:22]	[LDFŞSMFDLŞS]	->SESSION OK : SERIAL NUMBER
+Date : [2024-08-31 17:34:22]	[LDFŞSMFDLŞS]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 6.434 seconds.
+#Session Ended#
+#Session Start#
+Date : [2024-09-02 08:28:08]	[Unknown]	->Started To QR Session
+#Session Start#
+Date : [2024-09-02 08:28:16]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 08:28:18]	[Unknown]	->CORRECT QR -> NLOS
+Date : [2024-09-02 08:28:18]	[Unknown]	->Connected to COM15
+Date : [2024-09-02 08:28:18]	[Unknown]	->SESSION START : HANDSHAKE
+#Session Start#
+Date : [2024-09-02 12:33:41]	[Unknown]	->Started To QR Session
+#Session Ended#
+#Session Start#
+Date : [2024-09-02 12:37:44]	[Unknown]	->Started To QR Session
+#Session Start#
+Date : [2024-09-02 12:38:28]	[Unknown]	->Started To QR Session
+#Session Start#
+Date : [2024-09-02 12:43:03]	[Unknown]	->Started To QR Session
+#Session Ended#
+#Session Start#
+Date : [2024-09-02 12:48:36]	[Unknown]	->Started To QR Session
+#Session Start#
+Date : [2024-09-02 12:59:30]	[Unknown]	->Started To QR Session
+#Session Ended#
+#Session Start#
+Date : [2024-09-02 13:02:01]	[Unknown]	->Started To QR Session
+#Session Start#
+#Session Ended#
+#Session Start#
+Date : [2024-09-02 13:17:06]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 13:17:09]	[Unknown]	->CORRECT QR -> NL0SS
+Date : [2024-09-02 13:17:14]	[ERROR]	[Unknown]	->	ERROR OCCURED : Semafor zaman aşımı süresi geçildi. : 'COM26'
+#Session Ended#
+#Session Start#
+Date : [2024-09-02 13:17:35]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 13:17:42]	[Unknown]	->CORRECT QR -> NL0S
+#Session Start#
+Date : [2024-09-02 13:18:08]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 13:18:12]	[Unknown]	->CORRECT QR -> NL0S321
+#Session Start#
+Date : [2024-09-02 13:18:45]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 13:18:49]	[Unknown]	->CORRECT QR -> NL0S
+#Session Start#
+Date : [2024-09-02 13:19:54]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 13:19:56]	[Unknown]	->CORRECT QR -> NL0SS
+Date : [2024-09-02 13:20:01]	[ERROR]	[Unknown]	->	ERROR OCCURED : Semafor zaman aşımı süresi geçildi. : 'COM26'
+#Session Ended#
+#Session Start#
+Date : [2024-09-02 13:20:47]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 13:20:50]	[Unknown]	->CORRECT QR -> NL0S
+Date : [2024-09-02 13:20:50]	[Unknown]	->Connected to COM15
+Date : [2024-09-02 13:20:50]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-02 13:20:52]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-02 13:20:53]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-02 13:20:55]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-02 13:20:55]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-02 13:20:57]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-02 13:20:57]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-02 13:20:59]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-02 13:21:00]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 9.802 seconds.
+#Session Start#
+Date : [2024-09-02 13:22:15]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 13:22:20]	[Unknown]	->CORRECT QR -> NL0SSADDSA
+Date : [2024-09-02 13:22:20]	[Unknown]	->Connected to COM15
+Date : [2024-09-02 13:22:20]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-02 13:22:23]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-02 13:22:23]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-02 13:22:24]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-02 13:22:24]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-02 13:22:25]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-02 13:22:25]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-02 13:22:26]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-02 13:22:26]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 5.725 seconds.
+#Session Start#
+Date : [2024-09-02 13:26:07]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 13:26:11]	[Unknown]	->CORRECT QR -> NL0SDSADSA
+Date : [2024-09-02 13:26:11]	[Unknown]	->Connected to COM15
+Date : [2024-09-02 13:26:11]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-02 13:26:14]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-02 13:26:14]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-02 13:26:15]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-02 13:26:15]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-02 13:26:16]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-02 13:26:16]	[Unknown]	->SESSION START : SERIAL NUMBER
+#Session Start#
+Date : [2024-09-02 13:26:44]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 13:26:48]	[Unknown]	->CORRECT QR -> NL0SSS
+Date : [2024-09-02 13:26:48]	[Unknown]	->Connected to COM15
+Date : [2024-09-02 13:26:48]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-02 13:26:50]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-02 13:26:50]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-02 13:26:53]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-02 13:26:53]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-02 13:26:54]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-02 13:26:54]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-02 13:26:55]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-02 13:26:55]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 7.383 seconds.
+#Session Start#
+Date : [2024-09-02 13:57:06]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 13:57:12]	[Unknown]	->CORRECT QR -> NL0SSS
+Date : [2024-09-02 13:57:12]	[Unknown]	->Connected to COM15
+Date : [2024-09-02 13:57:12]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-02 13:57:15]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-02 13:57:15]	[Unknown]	->SESSION START : REMAINING CAPACITY
+#Session Start#
+Date : [2024-09-02 13:57:58]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 13:58:02]	[Unknown]	->CORRECT QR -> NL0S
+Date : [2024-09-02 13:58:02]	[Unknown]	->Connected to COM15
+Date : [2024-09-02 13:58:02]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-02 13:58:05]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-02 13:58:05]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-02 13:58:07]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-02 13:58:08]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-02 13:58:11]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-02 13:58:11]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-02 13:58:11]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-02 13:58:12]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 9.667 seconds.
+#Session Start#
+Date : [2024-09-02 14:02:03]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 14:02:09]	[Unknown]	->CORRECT QR -> NL0S
+Date : [2024-09-02 14:02:09]	[Unknown]	->Connected to COM15
+Date : [2024-09-02 14:02:09]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-02 14:02:12]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-02 14:02:12]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-02 14:02:16]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-02 14:02:16]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-02 14:02:18]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-02 14:02:18]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-02 14:02:19]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-02 14:02:19]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 10.698 seconds.
+#Session Start#
+Date : [2024-09-02 14:02:55]	[Unknown]	->Started To QR Session
+#Session Ended#
+#Session Start#
+Date : [2024-09-02 15:16:14]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 15:16:27]	[Unknown]	->CORRECT QR -> NL0SBO48R04802071
+Date : [2024-09-02 15:16:27]	[ERROR]	[Unknown]	->	ERROR OCCURED : Access to the path 'COM15' is denied.
+#Session Ended#
+#Session Start#
+Date : [2024-09-02 15:16:39]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 15:16:42]	[Unknown]	->CORRECT QR -> NL0SBO48R04802071
+Date : [2024-09-02 15:16:42]	[Unknown]	->Connected to COM15
+Date : [2024-09-02 15:16:42]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-02 15:16:47]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-02 15:16:47]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-02 15:16:51]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-02 15:16:52]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-02 15:16:54]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-02 15:16:54]	[Unknown]	->SESSION START : SERIAL NUMBER
+#Session Start#
+Date : [2024-09-02 15:20:09]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 15:20:10]	[Unknown]	->CORRECT QR -> NL0SBO48R048020712
+Date : [2024-09-02 15:20:10]	[Unknown]	->Connected to COM15
+Date : [2024-09-02 15:20:10]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-02 15:20:13]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-02 15:20:13]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-02 15:20:14]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-02 15:20:14]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-02 15:20:15]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-02 15:20:15]	[Unknown]	->SESSION START : SERIAL NUMBER
+#Session Start#
+Date : [2024-09-02 15:26:27]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 15:26:31]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:31]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:32]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:32]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:32]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:32]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:33]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:34]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:35]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:35]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:36]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:36]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:36]	[ERROR]	[Unknown]	->	Wrong QR -> 
+Date : [2024-09-02 15:26:50]	[ERROR]	[Unknown]	->	Wrong QR -> NL0SBO48R048020712
+Date : [2024-09-02 15:26:50]	[Unknown]	->CORRECT QR -> NL0SBO48R048020712
+Date : [2024-09-02 15:26:50]	[Unknown]	->Connected to COM15
+Date : [2024-09-02 15:26:50]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-02 15:26:54]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-02 15:26:54]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-02 15:26:58]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-02 15:26:58]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-02 15:27:00]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-02 15:27:00]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-02 15:27:01]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-02 15:27:01]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 11.432 seconds.
+#Session Start#
+Date : [2024-09-02 18:02:03]	[Unknown]	->Started To QR Session
+Date : [2024-09-02 18:02:06]	[Unknown]	->CORRECT QR -> NL0SSS
+Date : [2024-09-02 18:02:06]	[Unknown]	->Connected to COM15
+Date : [2024-09-02 18:02:06]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-02 18:02:55]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-02 18:02:55]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-02 18:02:56]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-02 18:02:56]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-02 18:02:57]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-02 18:02:57]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-02 18:02:58]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-02 18:02:58]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 52.56 seconds.
+#Session Ended#
+#Session Start#
+Date : [2024-09-03 09:31:12]	[Unknown]	->Started To QR Session
+Date : [2024-09-03 09:31:19]	[Unknown]	->CORRECT QR -> NL0S123
+Date : [2024-09-03 09:31:19]	[Unknown]	->Connected to COM15
+Date : [2024-09-03 09:31:20]	[Unknown]	->SESSION START : HANDSHAKE
+#Session Start#
+Date : [2024-09-03 09:31:51]	[Unknown]	->Started To QR Session
+Date : [2024-09-03 09:31:55]	[Unknown]	->CORRECT QR -> NL0S123
+Date : [2024-09-03 09:31:55]	[ERROR]	[Unknown]	->	ERROR OCCURED : Access to the path 'COM25' is denied.
+#Session Ended#
+#Session Start#
+Date : [2024-09-03 09:32:14]	[Unknown]	->Started To QR Session
+Date : [2024-09-03 09:32:17]	[Unknown]	->CORRECT QR -> NL0S123
+Date : [2024-09-03 09:32:17]	[Unknown]	->Connected to COM25
+Date : [2024-09-03 09:32:17]	[Unknown]	->SESSION START : HANDSHAKE
+#Session Start#
+Date : [2024-09-03 21:08:41]	[Unknown]	->Started To QR Session
+Date : [2024-09-03 21:08:47]	[Unknown]	->CORRECT QR -> NL0SASDAS
+Date : [2024-09-03 21:08:47]	[ERROR]	[Unknown]	->	ERROR OCCURED : Access to the path 'COM3' is denied.
+#Session Ended#
+#Session Start#
+Date : [2024-09-03 21:08:59]	[Unknown]	->Started To QR Session
+Date : [2024-09-03 21:09:02]	[Unknown]	->CORRECT QR -> NL0SSA
+Date : [2024-09-03 21:09:02]	[Unknown]	->Connected to COM3
+Date : [2024-09-03 21:09:02]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-03 21:09:06]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-03 21:09:06]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-03 21:09:07]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-03 21:09:07]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-03 21:09:09]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-03 21:09:09]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-03 21:09:10]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-03 21:09:11]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 8.846 seconds.
+Date : [2024-09-03 21:09:31]	[Unknown]	->CORRECT QR -> NL0S
+Date : [2024-09-03 21:09:31]	[Unknown]	->Connected to COM3
+Date : [2024-09-03 21:09:31]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-03 21:09:33]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-03 21:09:33]	[Unknown]	->SESSION START : REMAINING CAPACITY
+#Session Start#
+Date : [2024-09-03 21:10:18]	[Unknown]	->Started To QR Session
+Date : [2024-09-03 21:10:27]	[Unknown]	->CORRECT QR -> NL0SSS
+Date : [2024-09-03 21:10:27]	[Unknown]	->Connected to COM3
+Date : [2024-09-03 21:10:27]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-03 21:10:30]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-03 21:10:30]	[Unknown]	->SESSION START : REMAINING CAPACITY
+#Session Start#
+Date : [2024-09-03 21:26:16]	[Unknown]	->Started To QR Session
+#Session Start#
+Date : [2024-09-03 21:27:21]	[Unknown]	->Started To QR Session
+Date : [2024-09-03 21:27:32]	[Unknown]	->CORRECT QR -> NL0S
+Date : [2024-09-03 21:27:32]	[Unknown]	->Connected to COM3
+Date : [2024-09-03 21:27:32]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-03 21:27:36]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-03 21:27:36]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-03 21:27:39]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-03 21:27:39]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-03 21:27:51]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-03 21:27:51]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-03 21:27:55]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-03 21:27:56]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 23.555 seconds.
+#Session Start#
+Date : [2024-09-04 08:21:12]	[Unknown]	->Started To QR Session
+#Session Start#
+Date : [2024-09-08 14:50:52]	[Unknown]	->Started To QR Session
+#Session Ended#
+#Session Start#
+Date : [2024-09-08 16:28:29]	[Unknown]	->Started To QR Session
+#Session Ended#
+#Session Start#
+Date : [2024-09-17 10:33:06]	[Unknown]	->Started To QR Session
+Date : [2024-09-17 10:34:58]	[Unknown]	->CORRECT QR -> NL0SB048R04801592
+Date : [2024-09-17 10:34:58]	[ERROR]	[Unknown]	->	ERROR OCCURED : Could not find file 'COM25'.
+#Session Ended#
+#Session Ended#
+#Session Start#
+Date : [2024-09-17 10:35:11]	[Unknown]	->Started To QR Session
+Date : [2024-09-17 10:35:13]	[Unknown]	->CORRECT QR -> NL0SB048R04801592
+Date : [2024-09-17 10:35:13]	[ERROR]	[Unknown]	->	ERROR OCCURED : Var olmayan bir aygıt belirtildi. : 'COM14'
+#Session Ended#
+#Session Ended#
+#Session Start#
+Date : [2024-09-20 14:13:29]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 14:13:33]	[Unknown]	->CORRECT QR -> NL0S
+Date : [2024-09-20 14:13:33]	[ERROR]	[Unknown]	->	ERROR OCCURED : Var olmayan bir aygıt belirtildi. : 'COM15'
+#Session Ended#
+#Session Start#
+Date : [2024-09-20 14:13:56]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 14:13:59]	[Unknown]	->CORRECT QR -> NL0SDASDSA
+Date : [2024-09-20 14:13:59]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 14:14:00]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 14:14:00]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 14:14:00]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 14:14:01]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 14:14:01]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 14:14:01]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 14:14:01]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 14:14:01]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 14:14:01]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 1.804 seconds.
+#Session Start#
+Date : [2024-09-20 14:16:43]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 14:16:46]	[Unknown]	->CORRECT QR -> NL0SSDAD
+Date : [2024-09-20 14:16:46]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 14:16:46]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 14:16:47]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 14:16:47]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 14:16:47]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 14:16:47]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 14:16:47]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 14:16:47]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 14:16:47]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 14:16:48]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 1.772 seconds.
+#Session Start#
+Date : [2024-09-20 14:19:41]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 14:19:45]	[Unknown]	->CORRECT QR -> NL0SDASDSA
+Date : [2024-09-20 14:19:45]	[ERROR]	[Unknown]	->	ERROR OCCURED : Access to the path 'COM24' is denied.
+#Session Ended#
+#Session Start#
+Date : [2024-09-20 14:20:00]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 14:20:02]	[Unknown]	->CORRECT QR -> NL0SDASDASDSA
+Date : [2024-09-20 14:20:02]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 14:20:03]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 14:20:03]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 14:20:03]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 14:20:03]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 14:20:04]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 14:20:04]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 14:20:04]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 14:20:04]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 14:20:04]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 1.697 seconds.
+#Session Start#
+Date : [2024-09-20 14:20:47]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 14:20:49]	[Unknown]	->CORRECT QR -> NL0S
+Date : [2024-09-20 14:20:49]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 14:20:49]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 14:20:50]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 14:20:50]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 14:20:50]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 14:20:50]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 14:20:50]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 14:20:50]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 14:20:50]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 14:20:51]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 1.798 seconds.
+#Session Start#
+Date : [2024-09-20 14:41:07]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 14:41:09]	[Unknown]	->CORRECT QR -> NL0S
+Date : [2024-09-20 14:41:09]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 14:41:10]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 14:41:10]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 14:41:10]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 14:41:10]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 14:41:10]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 14:41:10]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 14:41:11]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 14:41:11]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 14:41:12]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.302 seconds.
+Date : [2024-09-20 14:41:31]	[Unknown]	->CORRECT QR -> NL0SDASS
+Date : [2024-09-20 14:41:31]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 14:41:32]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 14:41:32]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 14:41:32]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 14:41:32]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 14:41:32]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 14:41:32]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 14:41:33]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 14:41:33]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 14:41:34]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.237 seconds.
+#Session Start#
+Date : [2024-09-20 14:42:33]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 14:42:37]	[Unknown]	->CORRECT QR -> NL0SASDA
+Date : [2024-09-20 14:42:37]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 14:42:37]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 14:42:37]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 14:42:37]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 14:42:38]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 14:42:38]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 14:42:38]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 14:42:38]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 14:42:38]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 14:42:39]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.813 seconds.
+#Session Start#
+Date : [2024-09-20 14:45:33]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 14:45:41]	[Unknown]	->CORRECT QR -> NL0SDSA
+Date : [2024-09-20 14:45:41]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 14:45:41]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 14:45:50]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 14:45:50]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 14:45:50]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 14:45:50]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 14:45:51]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 14:45:51]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 14:45:51]	[Unknown]	->SESSION OK : SERIAL NUMBER
+#Session Start#
+Date : [2024-09-20 14:46:08]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 14:46:13]	[Unknown]	->CORRECT QR -> NL0SDASDASDAS
+Date : [2024-09-20 14:46:13]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 14:46:13]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 14:46:13]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 14:46:13]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 14:46:13]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 14:46:14]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 14:46:14]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 14:46:14]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 14:46:14]	[Unknown]	->SESSION OK : SERIAL NUMBER
+#Session Start#
+Date : [2024-09-20 14:55:40]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 14:55:50]	[Unknown]	->CORRECT QR -> NL0SDASDASDSA
+Date : [2024-09-20 14:55:50]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 14:55:51]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 14:55:51]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 14:55:51]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 14:55:51]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 14:55:51]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 14:55:51]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 14:55:52]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 14:55:52]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 14:55:53]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.386 seconds.
+#Session Start#
+#Session Start#
+Date : [2024-09-20 14:57:36]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 14:57:38]	[Unknown]	->CORRECT QR -> NL0SADASDASDAS
+Date : [2024-09-20 14:57:38]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 14:57:38]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 14:57:39]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 14:57:39]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 14:57:39]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 14:57:39]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 14:57:39]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 14:57:39]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 14:57:40]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 14:57:41]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.496 seconds.
+#Session Start#
+Date : [2024-09-20 15:03:54]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 15:03:56]	[Unknown]	->CORRECT QR -> NL0SADAS
+Date : [2024-09-20 15:03:56]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 15:03:56]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 15:03:57]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 15:03:57]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 15:03:57]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 15:03:57]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 15:03:57]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 15:03:57]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 15:03:58]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 15:03:58]	[ERROR]	[Unknown]	->	ERROR OCCURED : Could not find any recognizable digits.
+#Session Ended#
+#Session Start#
+Date : [2024-09-20 15:04:25]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 15:04:26]	[Unknown]	->CORRECT QR -> NL0SDAS
+Date : [2024-09-20 15:04:26]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 15:04:27]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 15:04:27]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 15:04:27]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 15:04:27]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 15:04:27]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 15:04:28]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 15:04:28]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 15:04:28]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 15:04:28]	[ERROR]	[Unknown]	->	ERROR OCCURED : Could not find any recognizable digits.
+#Session Ended#
+#Session Start#
+Date : [2024-09-20 15:06:19]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 15:06:21]	[Unknown]	->CORRECT QR -> NL0SADASDAS
+Date : [2024-09-20 15:06:21]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 15:06:22]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 15:06:22]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 15:06:22]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 15:06:22]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 15:06:22]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 15:06:23]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 15:06:23]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 15:06:23]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 15:06:24]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.474 seconds.
+#Session Start#
+Date : [2024-09-20 15:06:58]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 15:07:01]	[Unknown]	->CORRECT QR -> NL0SDADSADAS
+Date : [2024-09-20 15:07:01]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 15:07:01]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 15:07:01]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 15:07:01]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 15:07:01]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 15:07:01]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 15:07:02]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 15:07:02]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 15:07:02]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 15:07:07]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 6.483 seconds.
+#Session Start#
+Date : [2024-09-20 15:07:30]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 15:07:32]	[Unknown]	->CORRECT QR -> NL0SDASDASDSA
+Date : [2024-09-20 15:07:32]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 15:07:32]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 15:07:32]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 15:07:32]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 15:07:33]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 15:07:33]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 15:07:33]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 15:07:33]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 15:07:33]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 15:07:43]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 11.452 seconds.
+#Session Start#
+Date : [2024-09-20 15:07:55]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 15:07:57]	[Unknown]	->CORRECT QR -> NL0SDADASDSA
+Date : [2024-09-20 15:07:57]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 15:07:57]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 15:07:58]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 15:07:58]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 15:07:58]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 15:07:58]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 15:07:58]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 15:07:58]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 15:07:58]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 15:08:14]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 16.560 seconds.
+#Session Start#
+Date : [2024-09-20 15:10:24]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 15:10:31]	[ERROR]	[Unknown]	->	Wrong QR -> NL0SDASDASDAS
+Date : [2024-09-20 15:10:31]	[Unknown]	->CORRECT QR -> NL0SDASDASDAS
+Date : [2024-09-20 15:10:31]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 15:10:31]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 15:10:31]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 15:10:31]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 15:10:32]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 15:10:32]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 15:10:32]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 15:10:32]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 15:10:32]	[Unknown]	->SESSION OK : SERIAL NUMBER
+#Session Start#
+Date : [2024-09-20 15:15:18]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 15:15:20]	[Unknown]	->CORRECT QR -> NL0SADASDAS
+Date : [2024-09-20 15:15:20]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 15:15:20]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 15:15:21]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 15:15:21]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 15:15:21]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 15:15:21]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 15:15:21]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 15:15:21]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 15:15:21]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 15:15:22]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.81 seconds.
+#Session Start#
+Date : [2024-09-20 15:16:58]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 15:17:00]	[Unknown]	->CORRECT QR -> NL0SADASDSA
+Date : [2024-09-20 15:17:00]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 15:17:01]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 15:17:01]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 15:17:01]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 15:17:02]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 15:17:02]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 15:17:02]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 15:17:02]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 15:17:02]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 15:17:03]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.270 seconds.
+#Session Start#
+Date : [2024-09-20 15:19:30]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 15:19:32]	[Unknown]	->CORRECT QR -> NL0SDADSA
+Date : [2024-09-20 15:19:32]	[ERROR]	[Unknown]	->	ERROR OCCURED : Access to the path 'COM24' is denied.
+#Session Ended#
+#Session Start#
+Date : [2024-09-20 15:19:43]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 15:19:46]	[Unknown]	->CORRECT QR -> NL0SDASDASDAS
+Date : [2024-09-20 15:19:46]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 15:19:46]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 15:19:54]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 15:19:54]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 15:19:55]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 15:19:55]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 15:19:55]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 15:19:55]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 15:19:55]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 15:19:57]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 10.448 seconds.
+Date : [2024-09-20 15:20:15]	[Unknown]	->CORRECT QR -> NL0SADADAADAS
+Date : [2024-09-20 15:20:15]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 15:20:16]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 15:20:16]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 15:20:16]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 15:20:17]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 15:20:17]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 15:20:17]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 15:20:17]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 15:20:17]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 15:20:18]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.632 seconds.
+Date : [2024-09-20 15:20:46]	[Unknown]	->CORRECT QR -> NL0SDSADASDADA
+Date : [2024-09-20 15:20:46]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 15:20:47]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 15:20:47]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 15:20:47]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 15:20:47]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 15:20:47]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 15:20:47]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 15:20:47]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 15:20:48]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 15:20:49]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.629 seconds.
+#Session Start#
+Date : [2024-09-20 15:29:09]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 15:29:11]	[Unknown]	->CORRECT QR -> NL0SDASDADA
+Date : [2024-09-20 15:29:11]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 15:29:12]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 15:29:12]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 15:29:12]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 15:29:12]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 15:29:12]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 15:29:12]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 15:29:12]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 15:29:13]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 15:29:13]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 1.723 seconds.
+#Session Start#
+Date : [2024-09-20 15:51:21]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 15:51:24]	[Unknown]	->CORRECT QR -> NL0SDASDSADSA
+Date : [2024-09-20 15:51:24]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 15:51:24]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 15:51:24]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 15:51:24]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 15:51:25]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 15:51:25]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 15:51:25]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 15:51:25]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 15:51:25]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 15:51:26]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.187 seconds.
+#Session Start#
+Date : [2024-09-20 17:06:43]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 17:06:46]	[Unknown]	->CORRECT QR -> NL0SSASA
+Date : [2024-09-20 17:06:46]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:06:46]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:06:46]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:06:46]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:06:47]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:06:47]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:06:47]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:06:47]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:06:47]	[Unknown]	->SESSION OK : SERIAL NUMBER
+#Session Start#
+Date : [2024-09-20 17:07:11]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 17:07:13]	[Unknown]	->CORRECT QR -> NL0SSADAS
+Date : [2024-09-20 17:07:13]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:07:13]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:07:13]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:07:13]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:07:13]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:07:13]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:07:14]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:07:14]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:07:14]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 17:07:14]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 1.404 seconds.
+#Session Start#
+Date : [2024-09-20 17:07:29]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 17:07:31]	[Unknown]	->CORRECT QR -> NL0SADSAS
+Date : [2024-09-20 17:07:31]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:07:31]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:07:32]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:07:32]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:07:32]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:07:32]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:07:32]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:07:32]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:07:32]	[Unknown]	->SESSION OK : SERIAL NUMBER
+#Session Start#
+Date : [2024-09-20 17:07:50]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 17:07:52]	[Unknown]	->CORRECT QR -> NL0SADASD
+Date : [2024-09-20 17:07:52]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:07:53]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:07:53]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:07:53]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:07:53]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:07:53]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:07:53]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:07:53]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:07:54]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 17:07:54]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 1.496 seconds.
+#Session Start#
+Date : [2024-09-20 17:08:19]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 17:08:22]	[Unknown]	->CORRECT QR -> NL0SADADAS
+Date : [2024-09-20 17:08:22]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:08:22]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:08:22]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:08:22]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:08:22]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:08:22]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:08:22]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:08:22]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:08:22]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 17:08:23]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 1.111 seconds.
+#Session Start#
+Date : [2024-09-20 17:08:54]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 17:09:00]	[Unknown]	->CORRECT QR -> NL0SASDASDASDAS
+Date : [2024-09-20 17:09:00]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:09:00]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:09:00]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:09:00]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:09:00]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:09:00]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:09:00]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:09:00]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:09:01]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 17:09:02]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.299 seconds.
+Date : [2024-09-20 17:09:23]	[Unknown]	->CORRECT QR -> NL0SDASDSADA
+Date : [2024-09-20 17:09:23]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:09:23]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:09:24]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:09:24]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:09:24]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:09:24]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:09:24]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:09:24]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:09:25]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 17:09:26]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.588 seconds.
+Date : [2024-09-20 17:09:55]	[Unknown]	->CORRECT QR -> NL0SJKBJKB
+Date : [2024-09-20 17:09:55]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:09:55]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:09:55]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:09:55]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:09:55]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:09:55]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:09:56]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:09:56]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:09:56]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 17:09:57]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.188 seconds.
+Date : [2024-09-20 17:10:39]	[Unknown]	->CORRECT QR -> NL0SASDADSA7
+Date : [2024-09-20 17:10:39]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:10:39]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:10:40]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:10:40]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:10:40]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:10:40]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:10:40]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:10:40]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:10:40]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 17:10:42]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.392 seconds.
+#Session Start#
+Date : [2024-09-20 17:11:03]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 17:11:05]	[Unknown]	->CORRECT QR -> NL0SDADASDA
+Date : [2024-09-20 17:11:05]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:11:05]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:11:05]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:11:05]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:11:06]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:11:06]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:11:06]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:11:06]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:11:06]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 17:11:07]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 2.502 seconds.
+#Session Start#
+Date : [2024-09-20 17:15:15]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 17:15:18]	[Unknown]	->CORRECT QR -> NL0SDSADSADSA
+Date : [2024-09-20 17:15:18]	[ERROR]	[Unknown]	->	ERROR OCCURED : Access to the path 'COM24' is denied.
+#Session Ended#
+#Session Start#
+Date : [2024-09-20 17:15:39]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 17:15:43]	[Unknown]	->CORRECT QR -> NL0SDSADSA
+Date : [2024-09-20 17:15:43]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:15:43]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:15:43]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:15:43]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:15:44]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:15:44]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:15:44]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:15:44]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:15:44]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 17:15:45]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 1.784 seconds.
+#Session Start#
+Date : [2024-09-20 17:18:00]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 17:18:03]	[Unknown]	->CORRECT QR -> NL0SDSADSADSA
+Date : [2024-09-20 17:18:03]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:18:03]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:18:03]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:18:03]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:18:04]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:18:04]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:18:04]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:18:04]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:18:04]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 17:18:04]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 1.437 seconds.
+Date : [2024-09-20 17:18:24]	[Unknown]	->CORRECT QR -> NL0SBVBNVNBNBMNBMNMMN
+Date : [2024-09-20 17:18:24]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:18:24]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:18:24]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:18:24]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:18:25]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:18:25]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:18:25]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:18:25]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:18:25]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 17:18:26]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 1.734 seconds.
+#Session Start#
+Date : [2024-09-20 17:18:49]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 17:18:53]	[ERROR]	[Unknown]	->	Wrong QR -> NL0SADASDA
+Date : [2024-09-20 17:18:53]	[Unknown]	->CORRECT QR -> NL0SADASDA
+Date : [2024-09-20 17:18:53]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:18:53]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:18:53]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:18:53]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:18:54]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:18:54]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:18:54]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:18:54]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:18:54]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 17:18:54]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 1.423 seconds.
+#Session Start#
+Date : [2024-09-20 17:21:09]	[Unknown]	->Started To QR Session
+Date : [2024-09-20 17:21:12]	[Unknown]	->CORRECT QR -> NL0SDADSADSA
+Date : [2024-09-20 17:21:12]	[Unknown]	->Connected to COM24
+Date : [2024-09-20 17:21:12]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-09-20 17:21:12]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-09-20 17:21:12]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-09-20 17:21:12]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-09-20 17:21:12]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-09-20 17:21:13]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-09-20 17:21:13]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-09-20 17:21:13]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-09-20 17:21:13]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 1.330 seconds.
+#Session Start#
+Date : [2024-10-22 14:43:08]	[Unknown]	->Started To QR Session
+Date : [2024-10-22 14:43:11]	[Unknown]	->CORRECT QR -> NL0SASDSA
+Date : [2024-10-22 14:43:11]	[Unknown]	->Connected to COM24
+Date : [2024-10-22 14:43:11]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-10-22 14:43:12]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-10-22 14:43:12]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-10-22 14:43:12]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-10-22 14:43:12]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-10-22 14:43:12]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-10-22 14:43:12]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-10-22 14:43:12]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-10-22 14:43:20]	[ERROR]	[Unknown]	->	ERROR OCCURED : err
+#Session Ended#
+#Session Start#
+#Session Start#
+#Session Start#
+Date : [2024-10-22 14:56:51]	[Unknown]	->Started To QR Session
+Date : [2024-10-22 14:56:54]	[Unknown]	->CORRECT QR -> NL0SSAFAFA
+Date : [2024-10-22 14:56:54]	[ERROR]	[Unknown]	->	ERROR OCCURED : Access to the path 'COM24' is denied.
+#Session Ended#
+#Session Start#
+Date : [2024-10-22 14:57:35]	[Unknown]	->Started To QR Session
+Date : [2024-10-22 14:57:37]	[Unknown]	->CORRECT QR -> NL0SDADASDAS
+Date : [2024-10-22 14:57:37]	[Unknown]	->Connected to COM24
+Date : [2024-10-22 14:57:38]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-10-22 14:57:38]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-10-22 14:57:38]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-10-22 14:57:38]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-10-22 14:57:38]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-10-22 14:57:39]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-10-22 14:57:39]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-10-22 14:57:39]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-10-22 14:57:44]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 6.713 seconds.
+#Session Ended#
+#Session Start#
+Date : [2024-10-22 14:59:32]	[Unknown]	->Started To QR Session
+Date : [2024-10-22 14:59:39]	[Unknown]	->CORRECT QR -> NL0SDAASDASDAS
+Date : [2024-10-22 14:59:39]	[Unknown]	->Connected to COM24
+Date : [2024-10-22 14:59:39]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-10-22 14:59:39]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-10-22 14:59:39]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-10-22 14:59:40]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-10-22 14:59:40]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-10-22 14:59:40]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-10-22 14:59:40]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-10-22 14:59:40]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-10-22 14:59:48]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 9.622 seconds.
+#Session Start#
+Date : [2024-10-22 15:01:29]	[Unknown]	->Started To QR Session
+Date : [2024-10-22 15:01:31]	[Unknown]	->CORRECT QR -> NL0SADSADAS
+Date : [2024-10-22 15:01:31]	[Unknown]	->Connected to COM24
+Date : [2024-10-22 15:01:32]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-10-22 15:01:32]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-10-22 15:01:32]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-10-22 15:01:32]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-10-22 15:01:32]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-10-22 15:01:32]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-10-22 15:01:32]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-10-22 15:01:33]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-10-22 15:01:41]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 9.613 seconds.
+#Session Start#
+Date : [2024-10-22 15:03:22]	[Unknown]	->Started To QR Session
+Date : [2024-10-22 15:03:25]	[Unknown]	->CORRECT QR -> NL0SDADASDAS
+Date : [2024-10-22 15:03:25]	[Unknown]	->Connected to COM24
+Date : [2024-10-22 15:03:25]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-10-22 15:03:26]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-10-22 15:03:26]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-10-22 15:03:26]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-10-22 15:03:26]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-10-22 15:03:27]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-10-22 15:03:27]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-10-22 15:03:27]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-10-22 15:03:35]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 9.862 seconds.
+#Session Start#
+Date : [2024-10-22 15:06:17]	[Unknown]	->Started To QR Session
+Date : [2024-10-22 15:06:31]	[Unknown]	->CORRECT QR -> NL0SDSDASDASDASD
+Date : [2024-10-22 15:06:31]	[Unknown]	->Connected to COM24
+Date : [2024-10-22 15:06:31]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-10-22 15:06:32]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-10-22 15:06:40]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-10-22 15:06:40]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-10-22 15:06:41]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-10-22 15:06:41]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-10-22 15:06:41]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-10-22 15:06:41]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-10-22 15:06:42]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 10.946 seconds.
+Date : [2024-10-22 15:06:50]	[Unknown]	->CORRECT QR -> NL0SABDULHAKIM
+Date : [2024-10-22 15:06:50]	[Unknown]	->Connected to COM24
+Date : [2024-10-22 15:06:50]	[Unknown]	->SESSION START : HANDSHAKE
+Date : [2024-10-22 15:06:50]	[Unknown]	->SESSION OK : HANDSHAKE
+Date : [2024-10-22 15:07:00]	[Unknown]	->SESSION START : REMAINING CAPACITY
+Date : [2024-10-22 15:07:01]	[Unknown]	->SESSION OK : REMAINING CAPACITY
+Date : [2024-10-22 15:07:01]	[Unknown]	->SESSION START : BATTERY MODEL
+Date : [2024-10-22 15:07:01]	[Unknown]	->SESSION OK : BATTERY MODEL
+Date : [2024-10-22 15:07:01]	[Unknown]	->SESSION START : SERIAL NUMBER
+Date : [2024-10-22 15:07:02]	[Unknown]	->SESSION OK : SERIAL NUMBER
+Date : [2024-10-22 15:07:02]	[Unknown]	->SESSION GENERALY SUCCESSFULL! PASSED TO NEXT BATTERY. 12.25 seconds.
+#Session Start#
+#Session Ended#
+#Session Start#
+#Session Start#
+#Session Start#
+#Session Ended#
+#Session Start#
+Date : [2024-10-22 17:48:45]	[Unknown]	->Started To QR Session
+#Session Ended#
+#Session Start#
+Date : [2024-10-22 17:51:35]	[Unknown]	->Started To QR Session
+#Session Ended#
+#Session Start#
+Date : [2024-10-24 08:54:20]	[Unknown]	->Started To QR Session
+Date : [2024-10-24 08:54:28]	[ERROR]	[Unknown]	->	Wrong QR -> NL0SADADASDSADAS
+Date : [2024-10-24 08:54:28]	[Unknown]	->CORRECT QR -> NL0SADADASDSADAS
+Date : [2024-10-24 08:54:28]	[Unknown]	->Connected to COM14
+Date : [2024-10-24 08:54:28]	[Unknown]	->SESSION START : HANDSHAKE
+#Session Ended#
+#Session Start#
+Date : [2024-10-24 08:55:22]	[Unknown]	->Started To QR Session
+#Session Ended#
+#Session Start#
+Date : [2024-10-24 08:57:31]	[Unknown]	->Started To QR Session
+#Session Ended#
+#Session Start#
+Date : [2024-10-24 16:03:45]	[Unknown]	->Started To QR Session
